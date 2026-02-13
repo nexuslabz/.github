@@ -1,12 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-bg-black.png">
-  <img alt="Nexus Labz" src="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-bg-black.png" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg-black.png">
+  <img alt="Nexus Labz" src="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg-black.png" width="280">
 </picture>
-
-<br><br>
 
 **Engineering digital products. Building scalable software. Designing automation-first systems.**
 
