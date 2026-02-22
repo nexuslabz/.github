@@ -2,61 +2,78 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg-black.png">
-  <img alt="Nexus Labz" src="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg-black.png" width="280">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg-grey.png">
+  <img alt="Nexus Labz" src="https://raw.githubusercontent.com/nexuslabz/.github/main/images/logo-full-no-bg-grey.png" width="280">
 </picture>
 
-**Engineering digital products. Building scalable software. Designing automation-first systems.**
+**Connecting Talent, Technology & Business**
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-nexuslabz.co-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexuslabz.co)
-[![Email](https://img.shields.io/badge/Contact-rcgimenez@nexuslabz.co-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcgimenez@nexuslabz.co)
+[![Website](https://img.shields.io/badge/Website-nexuslabz.co-D4AF37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexuslabz.co)
+[![Showcase](https://img.shields.io/badge/Showcase-showcase.nexuslabz.co-D4AF37?style=for-the-badge&logo=figma&logoColor=white)](https://showcase.nexuslabz.co)
+[![Contact](https://img.shields.io/badge/Contact-rcgimenez@nexuslabz.co-D4AF37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcgimenez@nexuslabz.co)
 
 </div>
 
 <br>
 
-## 🏢 &nbsp;Quem Somos
+## 🎯 Mission
 
-**Nexus Labz** é um estúdio de engenharia de software e inovação focado em construir produtos digitais escaláveis, frameworks de automação e sistemas de alta performance.
+> Connecting people, technology, and business to turn ideas into scalable, high-impact digital products.
 
-Operamos com uma mentalidade *engineering-first*, combinando pensamento de produto, engenharia de qualidade e manutenibilidade a longo prazo.
+## 🔭 Vision
+
+> To be the primary link between talent and the global market, creating innovative products and developing professionals ready to work anywhere in the world.
 
 <br>
 
-## 🛠️ &nbsp;O Que Fazemos
+## ⚡ Our Values
+
+| Value | Description |
+|-------|-------------|
+| **Strategic Connection** | We are the essential link between client, product, and developer. We build bridges that generate value. |
+| **End-to-End Delivery** | We deliver complete solutions: from idea conception to a product running in production. |
+| **Borderless Talent** | We train and connect elite professionals to the global market, without geographic barriers. |
+| **High Performance** | Lean teams, clear processes, and consistent delivery. Full focus on quality and speed. |
+| **Ownership Mindset** | We act as true business partners, invested in success — not just as vendors. |
+| **Continuous Growth** | Constant learning, technical evolution, and a long-term strategic vision. |
+
+<br>
+
+## 🏛️ Our Pillars
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🚀 &nbsp;Produtos Digitais
+### 🚀 Product Engineering
+**E2E Software Development**
 
-- Web Applications
-- Mobile Applications
-- Plataformas SaaS
-- Sistemas Empresariais
+We build digital products end-to-end — from discovery to deploy in production. SaaS platforms, web apps, mobile applications and custom frameworks with scalable architecture and a product mindset from day zero. We don't just deliver code. We deliver a product ready to grow.
 
-</td>
-<td width="33%" valign="top">
+### 🌍 Tech Consulting
+**Talent Allocation & Recruiting**
 
-### 🧪 &nbsp;Quality Engineering
-
-- Automação de Testes E2E
-- Arquitetura de Frameworks
-- Integração CI/CD
-- Testes de Performance
+We identify, recruit, and allocate high-performance talent to national and international clients. Technical, cultural, and strategic match guaranteed. More than recruiting — we deliver the right talent for the right challenge.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ⚙️ &nbsp;Engenharia & Infra
+### 📈 Talent Acceleration
+**Career Mentoring for QAs & Devs**
 
-- Arquitetura Escalável
-- DevOps & Cloud
-- Developer Experience
-- Automação & Tooling
+We prepare professionals for the global market with specialized mentoring focused on international positioning, technical excellence, and structured career growth. Transforming talent into globally competitive professionals.
+
+### 🔗 Talent & Opportunity Hub
+**Intelligent Hub for Opportunities**
+
+We centralize our own openings, strategic client positions, and selective processes, connecting qualified talent to the best opportunities in the tech market. More than job postings — we curate and create strategic connections.
+
+### ⚡ Dedicated Product Squads
+**Complete Squads on Demand**
+
+We assemble complete squads on demand to accelerate client products. QA, Dev, UX, Product — lean teams aligned and oriented to continuous delivery with an ownership mindset and result-driven approach.
 
 </td>
 </tr>
@@ -64,17 +81,7 @@ Operamos com uma mentalidade *engineering-first*, combinando pensamento de produ
 
 <br>
 
-## 💡 &nbsp;Nossos Princípios
-
-<div align="center">
-
-`Automação por Design` &nbsp;·&nbsp; `Código Limpo e Manutenível` &nbsp;·&nbsp; `Arquitetura Escalável` &nbsp;·&nbsp; `Visão Técnica de Longo Prazo` &nbsp;·&nbsp; `Melhoria Contínua`
-
-</div>
-
-<br>
-
-## 🧰 &nbsp;Stack & Tecnologias
+## 🧰 Stack & Technologies
 
 <div align="center">
 
@@ -93,25 +100,15 @@ Operamos com uma mentalidade *engineering-first*, combinando pensamento de produ
 
 <br>
 
-## 🎯 &nbsp;Visão
-
-<div align="center">
-
-> *Construir sistemas digitais confiáveis que escalam — técnica e estrategicamente.*
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
 
 <sub>
 
-**Nexus Labz** — Engenharia. Inovação. Escala.
+**Nexus Labz** — Connecting Talent, Technology & Business
 
-[nexuslabz.co](https://nexuslabz.co) &nbsp;·&nbsp; [rcgimenez@nexuslabz.co](mailto:rcgimenez@nexuslabz.co)
+[nexuslabz.co](https://nexuslabz.co) · [showcase.nexuslabz.co](https://showcase.nexuslabz.co) · [rcgimenez@nexuslabz.co](mailto:rcgimenez@nexuslabz.co)
 
 </sub>
 
